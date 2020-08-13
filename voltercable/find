@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="custom/style.css" />
+    <link rel="icon" href="img/icon.png" type="image/gif" sizes="16x16" />
+    <meta
+      name="description"
+      content="BS College For Girls kharian campus - Bright Stars College is a Project of Bright Stars educational network that is a welfare organization and aims to promote learning. This society has allocated generously millions of scholarships to educational projects "
+    />
+    <meta
+      name="keywords"
+      content="BS College For Girls, kharian, kharian campus"
+    />
+    <title>Cables</title>
+  </head>
+  <body>
+    <!-- Start: Header Section
+=============================================-->
+    <!-- nav -->
+    <header>
+        <div class="top-header">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3">
+              <a href="#"><img src="img/logo.png" class="img-fluid logo" alt="" /></a> 
+            </div>
+            <div class="col-lg-9">
+              <!-- Start NavBar -->
+              <nav class="navbar navbar-expand-lg navbar-light">
+                <button
+                  class="navbar-toggler"
+                  type="button"
+                  data-toggle="collapse"
+                  data-target="#navbarNavDropdown"
+                  aria-controls="navbarNavDropdown"
+                  aria-expanded="false"
+                  aria-label="Toggle navigation"
+                >
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                  <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#about">ABOUT</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">PRODUCT GALLERY</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">POWER CABLES</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">CONTACT</a>
+                    </li>
+                  </ul>
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </header>
+
+
+
+    <!-- Start: About Section 
+==================================================-->
+<section class="about-section" id="about">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-6">
+              <div class="about_list">
+                  <div class="base-header">
+                      <h3>FIND US</h3>
+                  </div>
+                    
+<div class="base-header">
+
+  <h5>Opening Hours </h5>
+
+  
+</div>
+
+  <p>8.00am - 6.00 pm, Friday Off</p>
+
+              </div>
+              
+          </div>
+          <!--End: about_bottom_warp -->
+          <div class="col-md-6">
+              <img src="img/about.jpg" class="img-fluid" alt="">
+          </div>
+          <!--End: About Video -->
+      </div>
+      <!--End: row-->
+
+
+
+
+
+ <div class="row">
+          <div class="col-md-6">
+              <div class="about_list">
+                  <div class="base-header">
+                       <h3>What We Do</h3>
+                  </div>
+                   
+<ul>
+
+
+<li><p>
+We make Quality wires using 99.99% pure copper and is enveloped in imported P.V.C that ensures full voltage by which our consumers are able to save electicity and lower the bills. </p>
+</li>
+
+<li>
+<p>
+By meeting the international standards, we are able to make pure quality long lasting wires. </p>
+</li>
+
+<p> <li>
+We actively deliver our products all over Pakistan. </p>
+
+ </li>
+
+<li>
+<p>
+Our single and multicore Power Cables are heat, water and chemical resistant. Therefore, ensuring proper conduction through the wires and saving electricity as well as any kind of short circuits in houses and buildings. </p> </li>
+
+</ul>
+
+                   </div>
+              
+          </div>
+          <!--End: about_bottom_warp -->
+          <div class="col-md-6">
+              <img src="img/About-us.png" class="img-fluid" alt="">
+          </div>
+          <!--End: About Video -->
+      </div>
+
+
+
+
+
+
+  </div>
+  <!-- End: container-->
+</section>
+<!--  End: About Section
+==================================================-->
+
+<section class="footer">
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <p class="copyright">&copy 2019 Volter Cables all rights reserved</p>
+    </div>
+    <div class="col-md-4 text-center">
+      <a href="#"><i class="fa fa-facebook"></i></a>
+      <a href="#"><i class="fa fa-instagram"></i></a>
+      
+    </div>
+    <div class="col-md-4"></div>
+  </div>
+</div>
+</section>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  </body>
+</html>
